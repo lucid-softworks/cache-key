@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/cache-key",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Deterministic collision-resistant cache keys from typed primitive parts.",
   "keywords": [
     "cache",
